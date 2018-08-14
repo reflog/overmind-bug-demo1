@@ -1,0 +1,21 @@
+{
+  "name": "parcel-sandbox",
+  "version": "1.0.0",
+  "description": "Simple Parcel Sandbox",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "antd": "3.8.1",
+    "overmind": "1.0.0-1534167068016",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-overmind": "1.0.0-1533059066486",
+    "typescript": "3.0.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  }
+}
